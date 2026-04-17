@@ -21,7 +21,7 @@ Tratamento de dados e visualização em gráfico dinâmico
 
 ## Tabela e Gráfico- 
 [desp.sjc01.xlsx](https://github.com/user-attachments/files/26844925/desp.sjc01.xlsx)
-<img width="1919" height="780" alt="despesassjc" src="https://github.com/user-attachments/assets/954b6772-8e88-4506-9f37-2f51982238a8" />
+<img width="1900" height="830" alt="Captura de tela 2026-04-17 204854" src="https://github.com/user-attachments/assets/d69c07b3-33a7-4673-a42d-246bac6d6e1b" />
 
 ## Tabela e Gráfico-
 [forsjc-03s.xlsx](https://github.com/user-attachments/files/26844930/forsjc-03s.xlsx)
