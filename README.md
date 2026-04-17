@@ -25,7 +25,7 @@ Tratamento de dados e visualização em gráfico dinâmico
 
 ## Tabela e Gráfico-
 [forsjc-03s.xlsx](https://github.com/user-attachments/files/26844930/forsjc-03s.xlsx)
-<img width="1366" height="768" alt="fornecedoresjc" src="https://github.com/user-attachments/assets/b84a0bee-3a03-4be4-8d11-e31eefe4d734" />
+<img width="1918" height="815" alt="Captura de tela 2026-04-17 204649" src="https://github.com/user-attachments/assets/fca99fed-01af-49e1-ae1b-1c8aa7d3779f" />
 
 ## Utilizando o excel para o tratamento de "DADOS ABERTOS-SP" do segmento da educação, com a fórmula "SOMASES".
 https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
