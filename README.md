@@ -28,5 +28,5 @@ Tratamento de dados e visualização em gráfico dinâmico
 <img width="1918" height="815" alt="Captura de tela 2026-04-17 204649" src="https://github.com/user-attachments/assets/fca99fed-01af-49e1-ae1b-1c8aa7d3779f" />
 
 ## Utilizando o excel para o tratamento de "DADOS ABERTOS-SP" do segmento da educação, com a fórmula "SOMASES".
-https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
-<img width="1919" height="841" alt="Captura de tela 2026-04-10 221041" src="https://github.com/user-attachments/assets/5611617a-da9c-4812-b69b-b7448f769a4b" />
+https://docs.google.com/spreadsheets/d/1YYmeKmUfR1H1VB5rPrCn5L9GX-94jMsF/edit?usp=sharing&ouid=116371662026551868444&rtpof=true&sd=true
+<img width="1897" height="791" alt="Captura de tela 2026-04-17 205120" src="https://github.com/user-attachments/assets/e3480ca3-b0d4-416b-8500-021907c31da9" />
